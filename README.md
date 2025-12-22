@@ -1,16 +1,4 @@
 # expanse_manager_app
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Expense Manager App is a Flutter-based mobile application designed for efficient personal finance tracking. With Firebase integration, it offers real-time expense logging, categorized spending analytics, and cloud synchronization across devices. The app features intuitive dashboards, location tagging for expenses, secure authentication, and supports multiple platforms including
